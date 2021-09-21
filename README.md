@@ -17,12 +17,11 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+
 
 ## Docker Build Setup
 
 ```
-
  $ docker build -t nuxt-tailwind-flashcard .
  
  $ docker run --rm -p 80:80 nuxt-tailwind-flashcard
